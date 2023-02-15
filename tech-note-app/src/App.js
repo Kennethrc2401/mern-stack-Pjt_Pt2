@@ -69,8 +69,12 @@ export default App;
 
 // Sample User - Tom - Admin
 // Username: Tom
-// Password: 1234567890
+// Password: !Hb12345
 
 // Sample User - Jeff - Employee, Manager, Admin
 // Username: Jeff
 // Password: !jeff12345
+
+// Sample User - Mike - Manager
+// Username: Mike
+// Password: !mike948
